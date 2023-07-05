@@ -1,1 +1,2 @@
-mkdir tmp/My_first_directory
+cd tmp
+mkdir My_first_directory
